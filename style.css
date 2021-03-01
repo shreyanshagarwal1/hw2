@@ -1,4 +1,4 @@
-#top {background-image: url(Banner.jpg); background-position: 410px 0px; background-repeat: no-repeat; height: 200px; padding-bottom: 40px;
+#top {background-image: url(banner.jpg); background-position: 410px 0px; background-repeat: no-repeat; height: 200px; padding-bottom: 40px;
 		 text-align:center; font-size:  35px; background-attachment:fixed; position:relative; z-index:99}	
 
 .pageName {position:absolute; top: 185px; left:550px}
